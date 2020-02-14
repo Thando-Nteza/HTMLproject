@@ -1,0 +1,40 @@
+body { 
+    margin: 0px;
+    background-image: url(NamibRand.JPG);
+    
+}
+main {
+    background-image: url(NamiRand.JPG); 
+    background-size: cover;
+}
+
+
+
+
+nav {
+    margin-top: 25px;
+    float: right;
+}
+.navbar {
+    color: honeydew;
+    font-size: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+h1 {
+    font-size: 85px;
+    color: honeydew;
+    text-align: center;
+    padding-top: 160px;
+}
+h2 {
+    font-size: 45px;
+    color: honeydew;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.about {
+    padding-top: 75px;
+}

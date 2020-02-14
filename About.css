@@ -1,0 +1,23 @@
+body { 
+    margin: 0px;
+    background-image: url(NamibRand.JPG);
+    
+}
+
+
+
+.about {
+    width: 300px;
+    height: 250px;
+
+
+}
+
+p{
+    align-content: center;
+}
+
+font{
+
+    font-size: 65px;
+}
