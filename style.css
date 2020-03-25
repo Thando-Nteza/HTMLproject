@@ -1,40 +1,22 @@
-body { 
-    margin: 0px;
-    background-image: url(NamibRand.JPG);
-    
-}
-main {
-    background-image: url(NamiRand.JPG); 
-    background-size: cover;
+body {
+    background-color: blueviolet;
 }
 
-
-
-
-nav {
-    margin-top: 25px;
-    float: right;
+.topnav {
+    background-color: whitesmoke;
+    overflow: hidden;
 }
-.navbar {
-    color: honeydew;
-    font-size: 30px;
-    margin-left: 30px;
-    text-decoration: none;
-    margin-right: 30px;
-}
-h1 {
-    font-size: 85px;
-    color: honeydew;
+
+.topnav a {
+    float: left;
+    color: black;
     text-align: center;
-    padding-top: 160px;
-}
-h2 {
-    font-size: 45px;
-    color: honeydew;
-    text-align: center;
-    padding-top: 50px;
+    padding: 20px 22px;
+    text-decoration: transparent;
+    font-size: 19px;
 }
 
-.about {
-    padding-top: 75px;
+.div h1 {
+    text-align: center;
+
 }
